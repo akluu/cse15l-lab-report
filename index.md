@@ -4,7 +4,6 @@
 This is my *markdown* test.
 
 
-
-![Image](http://cdn.shopify.com/s/files/1/1061/1924/products/Thumbs_Up_Sign_Emoji_Icon_ios10_grande.png?v=1571606114)
+[Link to Lab report 1](/lab-report-1-week-2.md)
 
 I am editing this webpage. :)

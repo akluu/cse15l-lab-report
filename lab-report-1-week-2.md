@@ -17,20 +17,24 @@
     3. To log in type the following into your terminal:
     > ssh *youraccount*@ieng6.ucsd.edu
     <!-- end of the list -->
-      It will look like:
-        ![image alt <](screenshots/Screen%20Shot%202022-04-08%20at%205.46.47%20PM.png)
+    <br>
+    It will look like:<br>
+
+    ![image alt <](screenshots/Screen%20Shot%202022-04-08%20at%205.46.47%20PM.png)
     
     > You will most likely be prompted for a password, which is not shown here. In this case, just type the password you just resetted.
 3. **Trying some commands**
-    <!-- end of the list -->
-     [Here](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners) are some commands you can use in linux. Knowing the basics like pwd, ls, cd, etc. will be useful.<br>
-    An example:
+    <br>
+    [Here](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners) are some commands you can use in linux. Knowing the basics like pwd, ls, cd, etc. will be useful.<br>
+    An example:<br>
     ![image alt <](screenshots/Screen%20Shot%202022-04-01%20at%204.43.25%20PM.png)
 4. **Move Files with scp** <br>
     You can send files from computer to computer using the following command. <br>
+
     > scp **file* *youraccount*@ieng6.ucsd.edu:*directory*
-    <!-- -->
-    An example:
+    
+    An example:<br>
+
     ![image alt <](screenshots/Screen%20Shot%202022-04-01%20at%204.43.10%20PM.png)
     > (Optional) scp works with multiple files so you can list multiple files and ":~/" can be  used for the default home directory.
 5. **Setting an SSH Key**
@@ -41,7 +45,8 @@
     3. Send your public key with the command:
     > scp /Users/*username*/.ssh/id_rsa.pub *youraccount*@ieng6.ucsd.edu:~/.ssh/authorized_keys
     4. Afterwards, as long as you're using the same computer, you can log into your remote computer without being prompted for a password.
-    <!-- end of the list -->
+    <br>
+
     If it works it should look like **(Notice how no password is required)**:
     ![image alt <](screenshots/Screen%20Shot%202022-04-01%20at%205.01.54%20PM.png)
 6. **Optimizing Remote Running** <br>
@@ -49,8 +54,9 @@
     1. You can run commands without logging into your remote computer with the command:
     > ssh *youraccount*@ieng6.ucsd.edu "*commands partitioned by ;*"
     2. The terminal will save your last ran command so you do not need to repeatedly type in long commands. You can just press the up arrow to call the last command.
-    <!-- end of the list -->
-    Example:
+    <br>
+    Example:<br>
+    
     ![image alt <](screenshots/Screen%20Shot%202022-04-01%20at%205.12.45%20PM.png)
 
 

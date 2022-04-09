@@ -7,9 +7,10 @@
     > This is not necessary, if you're on mac you can access your remote server through terminal.
     1. Go to [VSCode](https://code.visualstudio.com)
     2. Download
+    
     <br>
     It will look like:<br>
-    
+
     ![image alt <](screenshots/Screen%20Shot%202022-04-08%20at%205.23.50%20PM.png)
 2. **Remotely Connecting**
     1. Look up your account [here](https://sdacs.ucsd.edu/~icc/index.php), and reset your password.

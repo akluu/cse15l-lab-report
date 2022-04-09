@@ -9,6 +9,7 @@
     2. Download
     <br>
     It will look like:<br>
+    
     ![image alt <](screenshots/Screen%20Shot%202022-04-08%20at%205.23.50%20PM.png)
 2. **Remotely Connecting**
     1. Look up your account [here](https://sdacs.ucsd.edu/~icc/index.php), and reset your password.

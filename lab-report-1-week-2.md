@@ -7,7 +7,7 @@
     > This is not necessary, if you're on mac you can access your remote server through terminal.
     1. Go to [VSCode](https://code.visualstudio.com)
     2. Download
-    <!-- end of the list -->
+    <br>
     It will look like:<br>
     ![image alt <](screenshots/Screen%20Shot%202022-04-08%20at%205.23.50%20PM.png)
 2. **Remotely Connecting**
@@ -16,7 +16,7 @@
     > i.e. my account is cs15lsp22aiv@ieng6.ucsd.edu
     3. To log in type the following into your terminal:
     > ssh *youraccount*@ieng6.ucsd.edu
-    <!-- end of the list -->
+
     <br>
     It will look like:<br>
 
@@ -54,9 +54,10 @@
     1. You can run commands without logging into your remote computer with the command:
     > ssh *youraccount*@ieng6.ucsd.edu "*commands partitioned by ;*"
     2. The terminal will save your last ran command so you do not need to repeatedly type in long commands. You can just press the up arrow to call the last command.
+
     <br>
     Example:<br>
-    
+
     ![image alt <](screenshots/Screen%20Shot%202022-04-01%20at%205.12.45%20PM.png)
 
 

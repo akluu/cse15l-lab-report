@@ -25,7 +25,7 @@ ___
 
 | Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
 |---|---|---|
-|[\'google.com, google.com, ucsd.edu]| [url.com, \`google.com, google.com] | [url.com, \`google.com, google.com] |
+|['google.com, google.com, ucsd.edu]| [url.com, \`google.com, google.com] | [url.com, \`google.com, google.com] |
 
 #### **Test Code:**
 ```java

@@ -35,7 +35,7 @@ ___
     <tr>
       <td>[‘google.com, google.com, ucsd.edu]</td>
       <td>[url.com, `google.com, google.com]</td>
-      <td> [url.com, `google.com, google.com]</td>
+      <td>[url.com, `google.com, google.com]</td>
     </tr>
   </tbody>
 </table>

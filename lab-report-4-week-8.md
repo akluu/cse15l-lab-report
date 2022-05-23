@@ -100,7 +100,7 @@ ___
 ![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.18.33%20PM.png)
 
 | Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
-| :---: | :---: | :----:|
+|---|---|---|
 |[a.com, a.com((, example.com]| [a.com, a.com((]  | [a.com, a.com((] |
 
 #### **Test Code:**
@@ -184,7 +184,7 @@ And then there's more text
 ![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.18.45%20PM.png)
 
 | Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
-| :---: | :---: | :----:|
+|---|---|---|
 |[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]| []  | ![image](report4screenshots/Screen%20Shot%202022-05-22%20at%206.14.51%20PM.png)|
 
 #### **Test Code:**

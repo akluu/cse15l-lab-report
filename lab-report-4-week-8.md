@@ -21,7 +21,7 @@ ___
 
 ### **VScode Preview:**
 
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%205.01.57%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.01.57%20PM.png)
 
 | Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
 | :---: | :---: | :----|
@@ -63,9 +63,9 @@ ___
     }
 ```
 #### **JUnit Output:**
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%205.35.26%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.35.26%20PM.png)
 
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%205.35.52%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.35.52%20PM.png)
 
 > I think only a small change to the code will be necessary to fix the backtick cases. I would only need to look for backticks between openParen and closedParen.
 
@@ -84,7 +84,7 @@ ___
 
 ### **VScode Preview:**
 
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%205.18.33%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.18.33%20PM.png)
 
 | Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
 | :---: | :---: | :----|
@@ -126,9 +126,9 @@ ___
     }
 ```
 #### **JUnit Output:**
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%206.02.41%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%206.02.41%20PM.png)
 
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%206.06.58%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%206.06.58%20PM.png)
 
 > I think only a small change to the code will be necessary to fix the backslash cases. I would only need to look for backslashes between openParen and closedParen.
 
@@ -168,11 +168,11 @@ And then there's more text
 
 ### **VScode Preview:**
 
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%205.18.45%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.18.45%20PM.png)
 
 | Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
 | :---: | :---: | :----|
-|[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]| []  | ![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%206.14.51%20PM.png)|
+|[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]| []  | ![image](report4screenshots/Screen%20Shot%202022-05-22%20at%206.14.51%20PM.png)|
 
 #### **Test Code:**
 ```java
@@ -207,9 +207,9 @@ And then there's more text
     }
 ```
 #### **JUnit Output:**
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%206.16.01%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%206.16.01%20PM.png)
 
-![image](/report4screenshots/Screen%20Shot%202022-05-22%20at%206.16.14%20PM.png)
+![image](report4screenshots/Screen%20Shot%202022-05-22%20at%206.16.14%20PM.png)
 
 > I think a more involved change would be required to fix this issue. My code reads each line instead of the entire text so multi-line links would not be a simple issue to resolve.
 

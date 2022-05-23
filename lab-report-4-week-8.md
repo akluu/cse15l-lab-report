@@ -23,9 +23,22 @@ ___
 
 ![image](report4screenshots/Screen%20Shot%202022-05-22%20at%205.01.57%20PM.png)
 
-| Expected Output | Personal Output(Failed) | Reviewed Output(Failed) |
-| :---: | :---: | :----:|
-|['google.com, google.com, ucsd.edu]| [url.com, `google.com, google.com]  | [url.com, `google.com, google.com] |
+<table>
+  <thead>
+    <tr>
+      <th>Expected Output</th>
+      <th>Personal Output(Failed)</th>
+      <th>Reviewed Output(Failed)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[‘google.com, google.com, ucsd.edu]</td>
+      <td>[url.com, `google.com, google.com]</td>
+      <td> [url.com, `google.com, google.com]</td>
+    </tr>
+  </tbody>
+</table>
 
 #### **Test Code:**
 ```java
